@@ -1,0 +1,78 @@
+body {
+    background-color: #E9ECEF;
+}
+
+#btnhk {
+    text-align: center;
+}
+
+#altyazi {
+    text-align: center;
+}
+
+.lead {
+    text-align: center;
+}
+
+#vizyonumuz {
+    
+    width: 100%;
+    text-decoration: none;
+    text-align: center;
+    color: #7f8182;
+    
+}
+#misyonumuz {
+    
+    text-decoration: none;
+    text-align: center;
+    color: #7f8182;
+}
+#headingTwo:hover {
+    color: #6c757d;
+}
+
+/* hakkında butonu */
+#divhk {
+    text-align: center;
+    margin-top: 15px;
+    color: #7f8182;
+}
+#divhkana {
+    text-align: center;
+    margin-top: 15px;
+    color: #7f8182;
+}
+
+#filmleryazisi {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.card {
+    margin-top: 35px;
+    height: 650px;
+    background-color: #7f8182;
+    border-radius: 50px;
+}
+.cardabout {
+    border-radius: 10px;
+}
+
+.card-img-top {
+    height: 350px;
+    background-color: #7f8182;
+    border-radius: 50px;
+}
+
+.card-text {
+    color: aliceblue;
+}
+
+#imdbtop10 {
+    color: #6c757d;
+}
+
+.jumbotron {
+    margin-top: 80px;
+}
